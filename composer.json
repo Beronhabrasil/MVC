@@ -1,0 +1,21 @@
+{
+    "name": "vendor/m-v-c",
+    "description": "Description of project MVC.",
+    "authors": [
+        {
+            "name": "jonny",
+            "email": "ithelpdesk24@googlemail.com"
+        }
+    ],
+    "require": {
+    "php":">=5.3"
+       
+       
+    
+    
+    
+    },
+    "require-dev":{
+    "phpunit/phpunit":"^4.3"
+    }
+}
